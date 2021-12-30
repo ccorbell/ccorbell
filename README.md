@@ -5,9 +5,9 @@ I live and work in the Pacific Northwest of the U.S., not far from Portland, Ore
 
 I'm an engineer at Vectorworks where I focus on Mac OS implementation of the Vectorworks 3D CAD product line. My focus there primarily in Objective-C and C++.
 
-I also write Swift and Python. Current Swift projects include a generative-graphics application for Mac OS. 
+I also write Swift and Python. Current Swift projects include MathPaint, a generative-graphics application for Mac OS. 
 
-I'm a continuing student of mathematics particularly focused on graph theory and related domains (linear algebra, combinatorics); also interested in probability and game theory.
+I'm a continuing student of mathematics particularly focused on graph theory and related domains (linear algebra, combinatorics); also interested in probability and game theory. The open-source graphoire project is a Python library for graph theory exploration.
 
 I'm also a music composer / producer / performer active in a variety of genres.
 
