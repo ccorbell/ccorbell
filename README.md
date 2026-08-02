@@ -3,6 +3,8 @@ Hi, I'm Christopher, software engineer and devotee of music and mathematics.
 
 I live and work in the Pacific Northwest of the U.S., not far from Portland, Oregon.
 
+My solo software side-venture is [Mathaesthetics](https://mathaesthetics.com/wp/), primarily focused on Swift development for macOS, iOS, and other Apple platforms and devices. 
+
 I'm the Build & Release manager at Vectorworks where I focus on internal systems and automation using Python, Django, MySQL, AWS (EC2, S3, etc.), Xcode, Visual Studio, Jenkins, and whatever else is needed. Previously my focus was on Mac OS implementation of the Vectorworks 3D CAD product line in Objective-C and C++.
 
 I also write Swift. Current Swift projects include MathPaint, a generative-graphics application for Mac OS, and the new flashcard app Lexolotl, written in SwiftUI.
